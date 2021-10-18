@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shwetabh-coder
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...to make discord bot using python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
